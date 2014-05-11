@@ -1,0 +1,14 @@
+488a672ec79830ca63440492cec71bc6  usr/share/doc-base/helloworld
+0cee689642fa9e5ac9560926cde234a9  usr/share/doc/helloworld/README.Debian
+20f0782c4aba7a437913ebc81f8ab145  usr/share/doc/helloworld/changelog.Debian.gz
+7eb07785762c82222acd52aa927ee150  usr/share/doc/helloworld/copyright
+16d7e382b42b524dfa040bfd0d9e6eda  usr/share/menu/helloworld
+0f9c4deaa2cd606264456e819c6f5487  usr/share/pyshared/helloworld-1.6.egg-info/PKG-INFO
+3fd50c1f82233c67e8bbff4b3b617901  usr/share/pyshared/helloworld-1.6.egg-info/SOURCES.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/helloworld-1.6.egg-info/dependency_links.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/helloworld-1.6.egg-info/not-zip-safe
+d73b04b0e696b0945283defa3eee4538  usr/share/pyshared/helloworld-1.6.egg-info/top_level.txt
+d41d8cd98f00b204e9800998ecf8427e  usr/share/pyshared/helloworld/__init__.py
+d41d8cd98f00b204e9800998ecf8427e  usr/share/pyshared/helloworld/lib/__init__.py
+6156afc89f775a0e30acda1eeaedf623  usr/share/pyshared/helloworld/lib/hello.py
+e0b70014347e6246fec9fc1572bb7af6  usr/share/pyshared/helloworld/main.py

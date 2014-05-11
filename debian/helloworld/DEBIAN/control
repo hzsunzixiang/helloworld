@@ -1,0 +1,16 @@
+Package: helloworld
+Version: 2.1-1
+Architecture: all
+Maintainer: root <root@debian>
+Installed-Size: 122
+Section: web
+Priority: optional
+Homepage: http://www.helloworld.org/
+Description: scalable, non-blocking web server and tools
+ helloworld is an open source version of the scalable, non-blocking
+ web server and tools that power FriendFeed. The FriendFeed application
+ is written using a web framework that looks a bit like web.py or
+ Google's webapp, but with additional tools and optimizations to take
+ advantage of the underlying non-blocking infrastructure.
+ .
+ This is the Python 2 version of the package.

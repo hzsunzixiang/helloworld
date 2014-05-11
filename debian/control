@@ -1,0 +1,24 @@
+Source: helloworld
+Section: web
+Priority: optional 
+Maintainer: root <root@debian>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://www.helloworld.org/
+#Vcs-Git: git://git.debian.org/collab-maint/helloworld.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/helloworld.git;a=summary
+
+Package: helloworld
+Architecture: all
+Build-Depends: debhelper (>= 7.0.50~),
+               python-all (>= 2.6.6-3),
+               python3-all,
+               python3-setuptools
+Description: scalable, non-blocking web server and tools
+ helloworld is an open source version of the scalable, non-blocking
+ web server and tools that power FriendFeed. The FriendFeed application
+ is written using a web framework that looks a bit like web.py or
+ Google's webapp, but with additional tools and optimizations to take
+ advantage of the underlying non-blocking infrastructure.
+ .
+ This is the Python 2 version of the package.

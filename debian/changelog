@@ -1,0 +1,5 @@
+helloworld (2.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <root@debian>  Sat, 10 May 2014 03:55:55 -0400

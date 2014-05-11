@@ -1,0 +1,1 @@
+../../../../share/pyshared/helloworld/main.py

@@ -1,0 +1,1 @@
+../../../../../share/pyshared/helloworld/lib/__init__.py
